@@ -1,0 +1,35 @@
+body {
+    margin: 50;
+   
+    
+}
+
+.aol {
+    width: 300px;
+    height: 400px;
+    background: #e2e2e2;
+    margin: auto;
+    margin-top: 50px;
+    box-shadow: 0 0 50px 0 #48e;
+    padding-top: 20px;
+    box-sizing: border-box;
+    font-family: serif;
+    color: #444;
+    text-align: center;
+    margin-top: 50px;
+    
+}
+
+h2 {
+    letter-spacing: 2px;
+}
+
+.p {
+    text-shadow: 0 0 50px #48e;
+}
+
+.img {
+    
+}
+
+
