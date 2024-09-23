@@ -1,7 +1,5 @@
 body {
-    margin: 50;
-   
-    
+    margin: 0;
 }
 
 .aol {
@@ -15,21 +13,12 @@ body {
     box-sizing: border-box;
     font-family: serif;
     color: #444;
-    text-align: center;
-    margin-top: 50px;
+    text-align:center;
     
-}
-
-h2 {
-    letter-spacing: 2px;
+    
 }
 
 .p {
+    
     text-shadow: 0 0 50px #48e;
 }
-
-.img {
-    
-}
-
-
